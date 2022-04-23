@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdel Ghani</h1>
 <h3 align="center">Php (Laravel) Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mfrouh&label=Profile%20views&color=0e75b6&style=flat" alt="mfrouh" /> </p>
-
 - 🌱 I’m currently learning **Laravel , Vue**
 
 - 👯 I’m looking to collaborate on [laravel](https://github.com/laravel)
